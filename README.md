@@ -1,2 +1,13 @@
-# simple-qubit-behaviours
-I created this to show some very simple aspects of qubits and interactions between them
+# simple-qubit-beahviours
+I created this to illustrate very simple qubit behaviours
+
+# to run
+dotnet run
+
+# to build
+dotnet build
+
+# to restore dependencies
+dotnet restore
+
+
